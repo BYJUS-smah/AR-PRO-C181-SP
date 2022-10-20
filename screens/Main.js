@@ -54,7 +54,7 @@ export default class Main extends Component {
             source={require("../assets/appIcon.png")}
             style={styles.appIcon}
           />
-          <Text style={styles.appName}>Mírame....</Text>
+          <Text style={styles.appName}>Mira aquí....</Text>
         </View>
         <View style={styles.middleContainer}>
           <Camera
